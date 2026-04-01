@@ -1,1 +1,1 @@
-![Pagination Diagram](./my_solution.png)
+![Pagination Diagram](./my solution.png)
